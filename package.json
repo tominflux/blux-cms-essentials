@@ -6,5 +6,8 @@
   "repository": "https://github.com/tominflux/blux-cms-essentials",
   "author": "Tom Chesters <tom@tomaaato.xyz>",
   "license": "GPL-3.0-or-later",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "fs-extra": "^9.0.1"
+  }
 }
