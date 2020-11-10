@@ -1,0 +1,10 @@
+{
+  "name": "@blux-cms/essentials",
+  "version": "0.0.0",
+  "description": "Essential modules for blux-cms.",
+  "main": "lib/index.js",
+  "repository": "https://github.com/tominflux/blux-cms-essentials",
+  "author": "Tom Chesters <tom@tomaaato.xyz>",
+  "license": "GPL-3.0-or-later",
+  "private": false
+}
