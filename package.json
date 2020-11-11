@@ -8,6 +8,7 @@
   "license": "GPL-3.0-or-later",
   "private": false,
   "dependencies": {
+    "express": "^4.17.1",
     "fs-extra": "^9.0.1"
   }
 }
